@@ -1,0 +1,23 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore vendor folder for PHP dependencies (like Composer)
+vendor/
+
+# Ignore IDE project files
+.idea/
+*.iml
+
+# Ignore environment and sensitive files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore node_modules folder for Node.js dependencies
+node_modules/
+
+# Ignore build directories
+dist/
+build/
