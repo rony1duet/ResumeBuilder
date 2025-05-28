@@ -305,20 +305,6 @@ Please use the GitHub Issues tab to report bugs or request features. When report
 - Expected vs actual behavior
 - Screenshots (if applicable)
 
-## 📸 Screenshots
-
-### Dashboard
-![User Dashboard](assets/images/dashboard-preview.png)
-
-### Resume Creation
-![Resume Creation Form](assets/images/create-resume-preview.png)
-
-### Theme Customization
-![Theme Selection](assets/images/theme-preview.png)
-
-### Mobile Responsive
-![Mobile View](assets/images/mobile-preview.png)
-
 ## 🙏 Acknowledgments
 
 - **Bootstrap Team** - For the amazing CSS framework
